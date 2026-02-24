@@ -1,10 +1,5 @@
 <table style="width: 100%; border-collapse: collapse;">
  <tr>
-  <td style="width: 124px; vertical-align: top; text-align: center;">
-   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/zipestudio.png?raw=true" title="It's me">
-   </div>
-  </td>
   <td style="vertical-align: top;">
    <div style="display: flex; flex-direction: column;">
     <div style="display: flex;">
