@@ -33,24 +33,30 @@
 
 **My Totem Sounds** is a Client-side mod that links custom Totem of Undying names to sounds from Resource Packs. Rename a totem in an anvil and if a matching sound exists, it plays when the totem activates.
 
+!["my totem sounds banner"](https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/img/mts_banner.png?raw=true)
+
 It reads two files from resource packs: `sounds.json` (standard Minecraft sound registration) and `totem_mappings.json` (which links renamed totem names to sound IDs).<br>
 Works with any resource pack, whether it's your own or one provided by a server. Perfect for personal use or server‑wide inside jokes.
 
-### Showcase
-- ### [Video Showcase](https://www.youtube.com/watch?v=Ycrk8voUG-A)
+## [Video Showcase](https://www.youtube.com/watch?v=Ycrk8voUG-A)
 
 !["Compatibility" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZScompatible.png?raw=true)
 
 ### Mod Compatibility
-
 - Works with **any mod** that adds items with the `DEATH_PROTECTION` component.
-- Fully compatible with similar and another resource packs.
+- Fully compatible with similar and other resource packs.
 - No conflicts — the mod only intercepts the totem activation sound event.
+
+### Works great with [My Totem Doll](https://modrinth.com/mod/my_totem_doll) mod
+Use both mods together for the ultimate totem personalization:  
+**My Totem Doll** turns your totem into a mini‑figure of any player (just rename it to their nickname).  
+**My Totem Sounds** lets you attach a custom sound to that same name.  
+Now you can have a totem that looks like your friend *and* plays their catchphrase, a meme, or an inside joke when it saves you.
 
 ### Multiplayer Friendly
 
 - The mod is **client‑side only** — you don't need to install it on the server.
-- Other players (without the mod & resource pack) will hear the vanilla/other totem sound, while you enjoy your custom sounds.
+- Other players (without the mod & resource pack) will hear the vanilla totem sound (or whatever sound their own setup provides).
 
 ### Custom Sounds (Resource Packs)
 
@@ -111,7 +117,7 @@ This allows one sound to be triggered by several different names. The sound ID c
 
 ### Want to support mod and authors? Just tell everyone about this mod!
 
-Yeah, you got it right. Just by advertising, you will support the mod and the creators well. The more people will know about this mod, the more downloads it will have, more downloads will give good motivation to authors and increase income from the site (literally free donation). **Remember, advertising must not be intrusive and annoiyng!**
+Yeah, you got it right. Just by advertising, you will support the mod and the creators well. The more people will know about this mod, the more downloads it will have, more downloads will give good motivation to authors and increase income from the site (literally free donation). **Remember, advertising must not be intrusive and annoying!**
 
 ### What you can do?
 - Make a video review / advertisement
