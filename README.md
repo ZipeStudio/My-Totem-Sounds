@@ -74,6 +74,7 @@ Now you can have a totem that looks like your friend *and* plays their catchphra
 To add your own sounds, create a resource pack with the following structure (the namespace can be anything, e.g. `mypack`):
 <details>
 <summary><b>Simple Resource Pack Structure</b></summary>
+
 ```
 my_cool_pack/
 └── assets/
