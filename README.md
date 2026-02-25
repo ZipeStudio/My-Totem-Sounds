@@ -124,6 +124,7 @@ This allows one sound to be triggered by several different names. The sound ID c
 Yeah, you got it right. Just by advertising, you will support the mod and the creators well. The more people will know about this mod, the more downloads it will have, more downloads will give good motivation to authors and increase income from the site (literally free donation). **Remember, advertising must not be intrusive and annoying!**
 
 ### What you can do?
+- Create resource packs for the mod and submit them to our Discord. The best ones will be featured on the mod's page.
 - Make a video review / advertisement
 - Share it on social media or Discord
 - Tell your friends about this mod
