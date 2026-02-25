@@ -35,6 +35,7 @@
 </table>
 
 !["my totem sounds banner"](https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/img/mts_banner.png?raw=true)
+
 !["Description" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZSdescription.png?raw=true)
 
 **My Totem Sounds** is a Client-side mod that links custom Totem of Undying names to sounds from Resource Packs. Rename a totem in an anvil and if a matching sound exists, it plays when the totem activates.
@@ -70,10 +71,9 @@ Now you can have a totem that looks like your friend *and* plays their catchphra
 
 !["Configurable" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZSconfigurable.png?raw=true)
 
-### Simple Resource Pack Structure
-
 To add your own sounds, create a resource pack with the following structure (the namespace can be anything, e.g. `mypack`):
-
+<details>
+<summary><b>Simple Resource Pack Structure</b></summary>
 ```
 my_cool_pack/
 └── assets/
@@ -116,6 +116,7 @@ Explanation:
 - In `totem_mappings.json`, the name `"ZipeStudio"` is linked to that sound, so a totem renamed to "ZipeStudio" will play `zipestudio_ww.ogg`.
 
 This allows one sound to be triggered by several different names. The sound ID can belong to another resource pack (`anotherpack:help`) – as long as that pack is loaded, it will work.
+</details>
 
 !["Support" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZSsupport.png?raw=true)
 
