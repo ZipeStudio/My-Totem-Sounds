@@ -5,23 +5,16 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import me.zipestudio.mts.MTSClient;
-import me.zipestudio.mts.MTSServer;
 import me.zipestudio.mts.reload.MTSReloadListener;
-import net.fabricmc.fabric.api.resource.IdentifiableResourceReloadListener;
-import net.fabricmc.fabric.api.resource.ResourceManagerHelper;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.server.packs.PackType;
 import net.minecraft.server.packs.resources.Resource;
 import net.minecraft.server.packs.resources.ResourceManager;
-import net.minecraft.server.packs.resources.ResourceManagerReloadListener;
 import net.minecraft.util.GsonHelper;
-import org.jetbrains.annotations.NotNull;
 
 import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.concurrent.CompletableFuture;
-import java.util.concurrent.Executor;
 
 
 public class TotemSoundManager {
@@ -30,7 +23,12 @@ public class TotemSoundManager {
     private static final String MAPPINGS_PATH = "totem_mappings.json";
 
     public static void init() {
-        ResourceManagerHelper.get(PackType.CLIENT_RESOURCES).registerReloadListener(new MTSReloadListener());
+        //? if >=1.21.9 {
+        /*MTSReloadListener mtsReloadListener = new MTSReloadListener();
+        net.fabricmc.fabric.api.resource.v1.ResourceLoader.get(PackType.CLIENT_RESOURCES).registerReloader(mtsReloadListener.getId(), mtsReloadListener);
+        *///?} else {
+        net.fabricmc.fabric.api.resource.ResourceManagerHelper.get(PackType.CLIENT_RESOURCES).registerReloadListener(new MTSReloadListener());
+        //?}
     }
 
     public static void loadMappings(ResourceManager manager) {

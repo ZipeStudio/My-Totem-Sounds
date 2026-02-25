@@ -1,5 +1,10 @@
 <table style="width: 100%; border-collapse: collapse;">
  <tr>
+  <td style="width: 124px; vertical-align: top; text-align: center;">
+   <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/zipestudio.png?raw=true" title="It's me">
+   </div>
+  </td>
   <td style="vertical-align: top;">
    <div style="display: flex; flex-direction: column;">
     <div style="display: flex;">
@@ -29,11 +34,10 @@
  </tr>
 </table>
 
+!["my totem sounds banner"](https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/img/mts_banner.png?raw=true)
 !["Description" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZSdescription.png?raw=true)
 
 **My Totem Sounds** is a Client-side mod that links custom Totem of Undying names to sounds from Resource Packs. Rename a totem in an anvil and if a matching sound exists, it plays when the totem activates.
-
-!["my totem sounds banner"](https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/img/mts_banner.png?raw=true)
 
 It reads two files from resource packs: `sounds.json` (standard Minecraft sound registration) and `totem_mappings.json` (which links renamed totem names to sound IDs).<br>
 Works with any resource pack, whether it's your own or one provided by a server. Perfect for personal use or server‑wide inside jokes.
