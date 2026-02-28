@@ -74,10 +74,10 @@ Now you can have a totem that looks like your friend *and* plays their catchphra
 Here are some resource packs created by the community for **My Totem Sounds**.  
 Click on the links to download and try them out!
 
-| Icon | Resource Pack | Description | Download |
-| :--: | :------------ | :---------- | :------- |
-| <img src="https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/img/packs/mtm_icon.png?raw=true" width="250" height="250"> | **My Totem Memes** | A pack that adds a touch of meme culture to your totems. Features sounds like "Vine Boom", Roblox "Oof", metal pipe, and many more! | [Modrinth](https://modrinth.com/project/my-totem-memes) |
-| | *Your pack here!* | *Create a resource pack and share it with us!* | |
+| Download | Name | Description |
+| :--: | :------------ | :---------- |
+| <a href="https://modrinth.com/project/my-totem-memes" target="_blank" title="Click to download this pack"><img src="https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/img/packs/mtm_icon.png?raw=true" width="250" height="250"></a> | **My Totem Memes** | A pack that adds a touch of meme culture to your totems. Features sounds like "Za Warudo", Roblox "Oof", metal pipe, and many more! |
+| | *Your pack here!* | *Create a resource pack and share it with us!* |
 
 > 💡 **Want your pack featured?** Create one and submit it on our [Discord](https://discord.com/invite/XmGF7rkkuY). The best packs will be added to this list!
 
