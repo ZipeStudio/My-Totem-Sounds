@@ -34,8 +34,6 @@
  </tr>
 </table>
 
-!["my totem sounds banner"](https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/img/mts_banner.png?raw=true)
-
 !["Description" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZSdescription.png?raw=true)
 
 **My Totem Sounds** is a Client-side mod that links custom Totem of Undying names to sounds from Resource Packs. Rename a totem in an anvil and if a matching sound exists, it plays when the totem activates.
@@ -43,7 +41,9 @@
 It reads two files from resource packs: `sounds.json` (standard Minecraft sound registration) and `totem_mappings.json` (which links renamed totem names to sound IDs).<br>
 Works with any resource pack, whether it's your own or one provided by a server. Perfect for personal use or server‑wide inside jokes.
 
-## [Video Showcase](https://www.youtube.com/watch?v=Ycrk8voUG-A)
+# [Video Showcase](https://www.youtube.com/watch?v=Ycrk8voUG-A)
+
+!["my totem sounds banner"](https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/img/mts_banner.png?raw=true)
 
 !["Compatibility" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZScompatible.png?raw=true)
 
