@@ -34,8 +34,6 @@
  </tr>
 </table>
 
-!["my totem sounds banner"](https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/img/mts_banner.png?raw=true)
-
 !["Description" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZSdescription.png?raw=true)
 
 **My Totem Sounds** is a Client-side mod that links custom Totem of Undying names to sounds from Resource Packs. Rename a totem in an anvil and if a matching sound exists, it plays when the totem activates.
@@ -43,7 +41,9 @@
 It reads two files from resource packs: `sounds.json` (standard Minecraft sound registration) and `totem_mappings.json` (which links renamed totem names to sound IDs).<br>
 Works with any resource pack, whether it's your own or one provided by a server. Perfect for personal use or server‑wide inside jokes.
 
-## [Video Showcase](https://www.youtube.com/watch?v=Ycrk8voUG-A)
+# [Video Showcase](https://www.youtube.com/watch?v=Ycrk8voUG-A)
+
+!["my totem sounds banner"](https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/img/mts_banner.png?raw=true)
 
 !["Compatibility" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZScompatible.png?raw=true)
 
@@ -68,6 +68,19 @@ Now you can have a totem that looks like your friend *and* plays their catchphra
 - All sound definitions and name‑to‑sound mappings are loaded from **resource packs**.
 - Server owners can include a resource pack with their custom sounds and mapping file — players who accept the pack will automatically hear the custom sounds.
 - You can also create your own personal pack to enjoy your own sounds.
+
+### 🎨 Community Resource Packs
+
+Here are some resource packs created by the community for **My Totem Sounds**.  
+Click on the links to download and try them out!
+
+|  | Name | Description                                                                                                                         | Download |
+| :--: | :--: |:------------------------------------------------------------------------------------------------------------------------------------| :------- |
+| <img src="https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/img/packs/mtm_icon.png?raw=true" width="250" height="250"> | **My Totem Memes** | A pack that adds a touch of meme culture to your totems. Features sounds like "Za Warudo", Roblox "Oof", metal pipe, and many more! | <a href="https://modrinth.com/resourcepack/my-totem-memes" target="_blank" rel="noopener noreferrer">Modrinth</a><br><a href="https://www.curseforge.com/minecraft/texture-packs/my-totem-memes" target="_blank" rel="noopener noreferrer">CurseForge</a> |
+| <img src="https://cdn.modrinth.com/data/AhOoKyl2/bc1675362c456db1f111b41cf0d4558f4ffa6cb2.png" width="250" height="250"> | **Totem All Sounds** | A simple resource pack that lets you choose from hundreds of resources for Minecraft.                                                             | <a href="https://modrinth.com/resourcepack/totem-all-sounds" target="_blank" rel="noopener noreferrer">Modrinth</a> |
+| <img src="https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/img/packs/mts_pack_template.png?raw=true" width="250" height="250"> | *Your pack here!* | *Create a resource pack and share it with us!*                                                                                      | |
+
+> 💡 **Want your pack featured?** Create one and submit it on our [Discord](https://discord.com/invite/XmGF7rkkuY). The best packs will be added to this list!
 
 !["Configurable" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZSconfigurable.png?raw=true)
 
