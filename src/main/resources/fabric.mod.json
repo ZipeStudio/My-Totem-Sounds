@@ -8,18 +8,18 @@
         "${mod_authors}"
     ],
     "contact": {
-        "homepage": "https://modrinth.com/mod/${mod_id}",
-        "issues": "https://github.com/${github_author}/${mod_id}"
+        "homepage": "https://modrinth.com/mod/${mod_slug}",
+        "issues": "https://github.com/${github_author}/${mod_slug}"
     },
     "license": "${mod_license}",
     "icon": "icon/icon.png",
     "environment": "${fabric_trick_side}",
     "entrypoints": {
         "main": [
-            "me.zipestudio.mts.entrypoint.MossyEntrypoint"
+            "me.zipestudio.mytotemsounds.entrypoint.CommonEntrypoint"
         ],
         "client": [
-            "me.zipestudio.mts.entrypoint.MossyClientEntrypoint"
+            "me.zipestudio.mytotemsounds.entrypoint.ClientEntrypoint"
         ]
     },
     "depends": {
@@ -28,7 +28,7 @@
         "java": ">=${java}",
         "${fabric_api_id}": "*"
     },
-    "accessWidener": "aws/fabric-${minecraft}.accesswidener",
+	"accessWidener": "${fabric_trick_accesswidener_id}",
     "mixins": [
         "${fabric_trick_mixin_configs}"
     ]

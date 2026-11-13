@@ -1,49 +1,49 @@
 <table style="width: 100%; border-collapse: collapse;">
- <tr>
-  <td style="width: 124px; vertical-align: top; text-align: center;">
-   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/zipestudio.png?raw=true" title="It's me">
-   </div>
-  </td>
-  <td style="vertical-align: top;">
-   <div style="display: flex; flex-direction: column;">
-    <div style="display: flex;">
-     <a href="https://github.com/ZipeStudio/My-Totem-Sounds">
-      <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/github.png?raw=true" title="Github page">
-     </a>
-     <a href="https://modrinth.com/mod/my-totem-sounds">
-      <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/modrinth.png?raw=true" title="Modrinth page">
-     </a>
-     <a href="https://www.curseforge.com/minecraft/mc-mods/my-totem-sounds">
-      <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/curseforge.png?raw=true" title="CurseForge page">
-     </a>
-    </div>
-    <div style="display: flex;">
-     <a href="https://discord.com/invite/XmGF7rkkuY">
-      <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/discord.png?raw=true" title="Discord account">
-     </a>
-     <a href="https://t.me/zipeleaf">
-      <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/telegram.png?raw=true" title="Telegram channel">
-     </a>
-     <a href="https://ko-fi.com/zipestudio/tip">
-      <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/support.png?raw=true" title="Support me (thx)">
-     </a>
-    </div>
-   </div>
-  </td>
- </tr>
+  <tr>
+    <td style="width: 124px; vertical-align: top; text-align: center;">
+      <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/zipestudio.png?raw=true" title="It's me">
+      </div>
+    </td>
+    <td style="vertical-align: top;">
+      <div style="display: flex; flex-direction: column;">
+        <div style="display: flex;">
+          <a href="https://github.com/ZipeStudio/My-Totem-Sounds">
+            <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/github.png?raw=true" title="Github page">
+          </a>
+          <a href="https://modrinth.com/mod/my-totem-sounds">
+            <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/modrinth.png?raw=true" title="Modrinth page">
+          </a>
+          <a href="https://www.curseforge.com/minecraft/mc-mods/my-totem-sounds">
+            <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/curseforge.png?raw=true" title="CurseForge page">
+          </a>
+        </div>
+        <div style="display: flex;">
+          <a href="https://discord.com/invite/XmGF7rkkuY">
+            <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/discord.png?raw=true" title="Discord account">
+          </a>
+          <a href="https://t.me/zipeleaf">
+            <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/telegram.png?raw=true" title="Telegram channel">
+          </a>
+          <a href="https://www.patreon.com/cw/ZipeStudio/membership">
+            <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/support.png?raw=true" title="Support me (thx)">
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
 </table>
 
 !["Description" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZSdescription.png?raw=true)
+
+<img src="https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/assets/mts_banner.png?raw=true" width="100%" alt="banner">
 
 **My Totem Sounds** is a Client-side mod that links custom Totem of Undying names to sounds from Resource Packs. Rename a totem in an anvil and if a matching sound exists, it plays when the totem activates.
 
 It reads two files from resource packs: `sounds.json` (standard Minecraft sound registration) and `totem_mappings.json` (which links renamed totem names to sound IDs).<br>
 Works with any resource pack, whether it's your own or one provided by a server. Perfect for personal use or server‑wide inside jokes.
 
-# [Video Showcase](https://www.youtube.com/watch?v=Ycrk8voUG-A)
-
-!["my totem sounds banner"](https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/img/mts_banner.png?raw=true)
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/Ycrk8voUG-A" title="video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 !["Compatibility" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZScompatible.png?raw=true)
 
@@ -76,9 +76,9 @@ Click on the links to download and try them out!
 
 |  | Name | Description                                                                                                                         | Download |
 | :--: | :--: |:------------------------------------------------------------------------------------------------------------------------------------| :------- |
-| <img src="https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/img/packs/mtm_icon.png?raw=true" width="250" height="250"> | **My Totem Memes** | A pack that adds a touch of meme culture to your totems. Features sounds like "Za Warudo", Roblox "Oof", metal pipe, and many more! | <a href="https://modrinth.com/resourcepack/my-totem-memes" target="_blank" rel="noopener noreferrer">Modrinth</a><br><a href="https://www.curseforge.com/minecraft/texture-packs/my-totem-memes" target="_blank" rel="noopener noreferrer">CurseForge</a> |
-| <img src="https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/img/packs/tas_icon.png?raw=true" width="250" height="250"> | **Totem All Sounds** | A simple resource pack that lets you change totem sounds by renaming them on an anvil! Choose from hundreds of Minecraft sounds. | <a href="https://modrinth.com/resourcepack/totem-all-sounds" target="_blank" rel="noopener noreferrer">Modrinth</a> |
-| <img src="https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/img/packs/mts_pack_template.png?raw=true" width="250" height="250"> | *Your pack here!* | *Create a resource pack and share it with us!*                                                                                      | |
+| <img src="https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/assets/mtm_icon.png?raw=true" width="250" height="250"> | **My Totem Memes** | A pack that adds a touch of meme culture to your totems. Features sounds like "Za Warudo", Roblox "Oof", metal pipe, and many more! | <a href="https://modrinth.com/resourcepack/my-totem-memes" target="_blank" rel="noopener noreferrer">Modrinth</a><br><a href="https://www.curseforge.com/minecraft/texture-packs/my-totem-memes" target="_blank" rel="noopener noreferrer">CurseForge</a> |
+| <img src="https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/assets/tas_icon.png?raw=true" width="250" height="250"> | **Totem All Sounds** | A simple resource pack that lets you change totem sounds by renaming them on an anvil! Choose from hundreds of Minecraft sounds. | <a href="https://modrinth.com/resourcepack/totem-all-sounds" target="_blank" rel="noopener noreferrer">Modrinth</a> |
+| <img src="https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/assets/mts_pack_template.png?raw=true" width="250" height="250"> | *Your pack here!* | *Create a resource pack and share it with us!*                                                                                      | |
 
 > 💡 **Want your pack featured?** Create one and submit it on our [Discord](https://discord.com/invite/XmGF7rkkuY). The best packs will be added to this list!
 
@@ -149,4 +149,6 @@ Yeah, you got it right. Just by advertising, you will support the mod and the cr
 
 !["Licensing" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZSlicensing.png?raw=true)
 
-### [See the original mod repository](https://github.com/ZipeStudio/My-Totem-Sounds)
+The license terms for this project are defined in the [LICENSE](https://github.com/ZipeStudio/My-Totem-Sounds/blob/master/LICENSE.md) file in this repository. That file always takes precedence over any license shown anywhere else.
+
+[**See the original mod repository**](https://github.com/ZipeStudio/My-Totem-Sounds)
